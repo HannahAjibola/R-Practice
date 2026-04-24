@@ -3,4 +3,14 @@ p{
   align-items: center;
   justify-content: center;
   height: 100vh;
+  
+}
+
+p button{
+    padding: 15px 30px;
+    border-radius: 12px;
+    border: none;
+    background-color: blueviolet;
+    font-weight: 900;
+    color: azure;
 }

@@ -1,7 +1,11 @@
 import "./App.css"
 const App =()=> {
   return(
-    <p>I hate you</p>
+    <p>
+    <button>
+      Click Me
+    </button>
+    </p>
   )
 }
 
