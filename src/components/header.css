@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.header {
+header {
   position: fixed;
   top: 0;
   width: 100%;
@@ -10,12 +10,12 @@ body {
   padding: 15px 0;
 }
 
-.navbar {
+nav {
   display: flex;
   justify-content: center;
 }
 
-.nav-list {
+nav ul {
   list-style: none;
   display: flex;
   gap: 30px;
@@ -23,12 +23,12 @@ body {
   margin: 0;
 }
 
-.nav-list a {
+nav ul a {
   text-decoration: none;
   color: white;
   font-size: 18px;
 }
 
-.nav-list a:hover {
+nav ul a:hover {
   color: #f0a500;
 }
